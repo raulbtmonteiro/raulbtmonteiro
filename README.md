@@ -29,6 +29,9 @@ Here's what I can do:
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
     <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a>  
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> 
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  </a> 
 </div>  
 
 ##
