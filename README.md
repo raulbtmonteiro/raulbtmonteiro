@@ -27,7 +27,7 @@ Here's what I can do:
     <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   </a>
   <a href="https://developers.vtex.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" alt="VTEX" height="30" width="40" src="https://avatars.githubusercontent.com/u/1288938?s=200&v=4">
+    <img align="center" alt="VTEX" width="40" src="https://avatars.githubusercontent.com/u/1288938?s=200&v=4">
   </a> 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
     <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
