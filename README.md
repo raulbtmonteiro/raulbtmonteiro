@@ -17,25 +17,25 @@ Here's what I can do:
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" title="JavaScript"> 
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> 
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </a>
-  <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer" title="React"> 
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer" title="Styled-Components"> 
     <img align="center" alt="Styled-Components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS"> 
     <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   </a>
-  <a href="https://developers.vtex.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://developers.vtex.com/" target="_blank" rel="noreferrer" title="VTEX IO"> 
     <img align="center" alt="VTEX" width="40" src="https://avatars.githubusercontent.com/u/1288938?s=200&v=4">
   </a> 
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS"> 
     <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a>  
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"> 
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a> 
 </div>  
