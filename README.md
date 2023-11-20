@@ -5,16 +5,16 @@ Wellcome to my GitHub profile!
 Here's what I can do: 
 
 <div style="display: inline_block" ><br>
-  <a href="https://www.w3schools.com/html/" target="_blank"> 
+  <a href="https://www.w3schools.com/html/" target="_blank" title="HTML"> 
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS"> 
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <a href="https://sass-lang.com/" target="_blank"> 
+  <a href="https://sass-lang.com/" target="_blank" title="SASS"> 
     <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" title="JavaScript"> 
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
